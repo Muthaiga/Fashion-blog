@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ff4d4d;
+
+}
+h1 {
+  text-align: left;
+  font-size: 24px;
+  font-family: sans-serif;
+
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+
+}
+
+.logo {
+  width: 100px;
+  text-align: left;
+  float: left;
+  height: 50px;
+  margin-bottom: 5px;
+
+
+}
+
+.guide {
+  width: 80%;
+  height: 30%;
+  text-align: left;
+  color:  #cccccc;
+  float: left;
+  font-size: 18px;
+  font-family: sans-serif;
+  border-radius: 15px 50px 30px 5px;
+  border: 3px solid black;
+  margin-bottom: 5px;
+}
+
+.tickets {
+  width: 80%;
+  height: 30%;
+  text-align: left;
+  color: #cccccc;
+  float: left;
+  font-size: 18px;
+  font-family: sans-serif;
+  border-radius: 15px 50px 30px 5px;
+  border: 3px solid black;
+    margin-bottom: 5px;
+
+}
+
+.dressing {
+  width: 80%;
+  height: 30%;
+  text-align: left;
+  color:  #cccccc;
+  float: left;
+  font-size: 18px;
+  font-family: sans-serif;
+  border-radius: 15px 50px 30px 5px;
+  border: 3px solid black;
+    margin-bottom: 5px;
+
+}
+
+.content {
+  width: 100%;
+  font-size: 18px;
+  color: #fff;
+  text-align: left;
+    margin-bottom: 5px;
+
+}
+
+.content li {
+  padding: 15px;
+
+}
+
+#contact {
+  width: 100%;
+  background-color: #fff;
+  font-size: 18px;
+  border-top: 3px solid black;
+}
